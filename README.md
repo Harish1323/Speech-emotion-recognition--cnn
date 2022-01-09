@@ -35,3 +35,8 @@ sad : 436 samples
 surprise : 252 samples
 
 Total : 2556 Samples
+
+Our project presents a new way to give the ability to machine to determine the
+emotion with the help of the human voice. It will give the machine the ability to have a
+better approach towards having a better conversation and seamless conversation like
+human does
